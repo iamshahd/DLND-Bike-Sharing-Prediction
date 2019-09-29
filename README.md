@@ -1,2 +1,3 @@
 # DLND-Bike-Sharing-Prediction
-My projects for Udacity's Deep Learning Nanodegree, completed on September 26th, 2019.
+Project 1 for Udacity's Deep Learning Nanodegree.
+The data comes from the UCI Machine Learning Database.
